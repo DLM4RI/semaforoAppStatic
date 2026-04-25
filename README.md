@@ -1,4 +1,4 @@
 ## INTEGRANTES
 
-Mario Castro
+Mario Castro,
 Rosendo De Castro
